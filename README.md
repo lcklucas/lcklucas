@@ -8,15 +8,15 @@
 </div>
 
 <div style="display: flex; justify-content: space-between;">
-  <div>
+  <div style="width: 48% ">
   <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
   <img align="center" alt="JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
   <img align="center" alt="SASS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
   <img align="center" alt="FIGMA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
   </div>
-  <div>
-    <a   href = "mailto:islucasferreira@gmail.com"><img style="border-radius: 20px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <div style="width: 48%>
+    <a   href = "mailto:islucasferreira@gmail.com"><img style="border-radius: 20px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the- badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a   href="https://www.linkedin.com/in/lucas-ferreira-fernandes-113b0a17b/" target="_blank"><img style="border-radius: 20px" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
 </div>
